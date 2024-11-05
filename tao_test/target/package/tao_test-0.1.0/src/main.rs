@@ -1,5 +1,5 @@
-use art::mix;
-use art::PrimaryColor;
+use tao_test::mix;
+use tao_test::PrimaryColor;
 
 fn main() {
     let red = PrimaryColor::Red;

@@ -1,0 +1,1 @@
+C:\Users\tl_28\Documents\giggle_giraffe\02_learn_rust\learn_rust\tao_test\target\package\tao_test-0.1.0\target\debug\libtao_test.rlib: C:\Users\tl_28\Documents\giggle_giraffe\02_learn_rust\learn_rust\tao_test\target\package\tao_test-0.1.0\src\lib.rs
