@@ -1,1 +1,0 @@
-C:\Users\tl_28\Documents\giggle_giraffe\02_learn_rust\learn_rust\guessing_game\target\debug\guessing_game.exe: C:\Users\tl_28\Documents\giggle_giraffe\02_learn_rust\learn_rust\guessing_game\src\main.rs
